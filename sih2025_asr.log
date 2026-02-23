@@ -1,0 +1,30 @@
+2025-09-11 16:11:14,399 - SIH2025_ASR - INFO - Calibrating microphone for optimal performance...
+2025-09-11 16:11:17,039 - SIH2025_ASR - INFO - Microphone calibration completed
+2025-09-11 16:11:17,041 - SIH2025_ASR - INFO - Session started: 20250911_161117
+2025-09-11 16:11:17,041 - SIH2025_ASR - INFO - Enterprise ASR Engine initialized for SIH 2025
+2025-09-11 16:12:15,766 - SIH2025_ASR - INFO - Enterprise ASR session completed
+2025-09-11 16:12:15,767 - SIH2025_ASR - INFO - Final stats: {
+  "session_id": "20250911_161117",
+  "uptime_seconds": 58.72275114059448,
+  "total_requests": 0,
+  "success_rate_percent": 0.0,
+  "average_confidence": 0.0,
+  "average_processing_time_ms": 0,
+  "failed_recognitions": 0
+}
+2025-09-11 16:12:28,661 - SIH2025_ASR - INFO - Calibrating microphone for optimal performance...
+2025-09-11 16:12:31,214 - SIH2025_ASR - INFO - Microphone calibration completed
+2025-09-11 16:12:31,214 - SIH2025_ASR - INFO - Session started: 20250911_161231
+2025-09-11 16:12:31,214 - SIH2025_ASR - INFO - Enterprise ASR Engine initialized for SIH 2025
+2025-09-11 16:12:59,267 - SIH2025_ASR - WARNING - No results meet minimum confidence threshold
+2025-09-11 16:12:59,267 - SIH2025_ASR - INFO - Recognition successful - Lang: English, Confidence: 0.526, Time: 27.97s
+2025-09-11 16:13:32,840 - SIH2025_ASR - INFO - Enterprise ASR session completed
+2025-09-11 16:13:32,842 - SIH2025_ASR - INFO - Final stats: {
+  "session_id": "20250911_161231",
+  "uptime_seconds": 61.625858306884766,
+  "total_requests": 1,
+  "success_rate_percent": 100.0,
+  "average_confidence": 0.5255084054545456,
+  "average_processing_time_ms": 27973.84738922119,
+  "failed_recognitions": 0
+}
